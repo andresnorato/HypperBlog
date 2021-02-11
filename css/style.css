@@ -32,3 +32,10 @@ body
 #post {
     padding: 1rem;
 }
+footer {
+    margin: 0 auto;
+    color: white;
+    padding: 3rem;
+    background-color: royalblue;
+    border: 1px solid white;
+}
