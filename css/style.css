@@ -20,3 +20,15 @@ body
 {
     font-size: 20px;
 }
+
+#cabecera {
+    background-color: royalblue;
+    font-weight: bold;
+    color: white;
+    margin: 0;
+    padding: 0.5rem;
+}
+
+#post {
+    padding: 1rem;
+}
